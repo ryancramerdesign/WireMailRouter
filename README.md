@@ -6,6 +6,9 @@ upon configurable rules.
 For this module to be useful, you should ideally have at least one other WireMail module installed
 so that there is more than one way to send email in your system. 
 
+You can also read this documentation online in this 
+[blog post](https://processwire.com/blog/posts/wiremail-modules-and-gmail/). 
+
 
 ## About the module
 
